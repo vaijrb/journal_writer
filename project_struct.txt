@@ -1,0 +1,29 @@
+journal_writer/
+├── README.md
+├── requirements.txt
+├── scripts/
+│   └── run.py                     # CLI entrypoint
+├── journal_writer/
+│   ├── __init__.py
+│   ├── config.py                 # Configuration (API keys, endpoints, thresholds)
+│   ├── searcher/
+│   │   ├── __init__.py
+│   │   ├── crossref_search.py    # Search Crossref for articles
+│   │   ├── arxiv_search.py       # Search arXiv
+│   │   └── aggregator.py         # Unified interface to collect search results
+│   ├── summarizer/
+│   │   ├── __init__.py
+│   │   └── llm_interface.py      # Abstracted LLM calls for summarization / rewriting
+│   ├── formatter/
+│   │   ├── __init__.py
+│   │   └── apa7.py              # APA7 formatting helpers (references, title page, etc.)
+│   ├── plagiarism/
+│   │   ├── __init__.py
+│   │   └── checker.py           # Local similarity + placeholder for external API
+│   ├── writer/
+│   │   ├── __init__.py
+│   │   └── article_builder.py    # Compose sections into draft
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   └── io_helpers.py         # File output, markdown/PDF conversion, citation management
+└── outputs/                     # Generated drafts, logs, etc.

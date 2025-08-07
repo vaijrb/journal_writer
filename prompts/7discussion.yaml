@@ -1,0 +1,18 @@
+# Purpose: Interpret findings, relate back to literature, discuss implications, limitations, and future directions.
+
+Summary of key findings: {summary}
+Comparison to prior work: {how_findings_compare}  # e.g., "Consistent with Smith et al. (2022) but extends by..."
+Implications: {practical_and_theoretical_implications}
+Limitations: {known_limitations}
+Future research directions: {suggestions}
+
+# Instructions:
+# Write the Discussion section. Structure it as follows:
+# 1. Brief restatement of main findings
+# 2. Interpretation in light of the literature (point out confirmations, contradictions, extensions)
+# 3. Theoretical implications
+# 4. Practical implications for stakeholders
+# 5. Limitations (be candid, e.g., sample bias, measurement error)
+# 6. Directions for future research
+# 7. Concluding takeaway statement
+# Aim for a balanced tone—neither overclaiming nor underselling. Length: ~800–1200 words.

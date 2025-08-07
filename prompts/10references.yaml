@@ -1,0 +1,10 @@
+# References
+
+Source entries: {list_of_sources}  # items with metadata: authors, title, year, DOI, journal, etc.
+
+# Instructions:
+# Generate a properly formatted APA 7th edition References section. For each source, create a full reference entry. Ensure:
+# - Hanging indent style (you can mark with leading spaces or markdown)
+# - Correct formatting for journal articles, preprints (e.g., arXiv), and DOIs/URLs
+# - Authors listed appropriately with ampersand before last author
+# Provide the list sorted alphabetically by surname.

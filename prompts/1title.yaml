@@ -1,0 +1,22 @@
+# Purpose: Generate an APA7 title page including title, author list, affiliations, author note (if needed), and running head (if journal requires).
+
+Topic: {topic}
+Authors: {author_list}  # e.g., "Alice Smith, Bob Lee"
+Affiliations: {affiliations}  # e.g., "Department of Psychology, Example University"
+Target journal: {journal_name} # (optional)
+
+#Instructions:
+# Generate an APA 7th edition title page. Include:
+# - Full title (concise, descriptive, no more than 15 words)
+# - Author names formatted correctly
+# - Institutional affiliations
+# - Author note if applicable (e.g., acknowledgments, funding statement, contact info)
+# - Running head specification (if the journal requires a short title)
+# Format it as plain text with appropriate labels, suitable for insertion into a manuscript.
+# Provide 2 alternate title suggestions (each <= 15 words) that are impactful and academic.
+
+# Example Use
+# Topic: Effects of remote work on productivity
+# Authors: Alice Smith & Bob Lee
+# Affiliations: Department of Organizational Behavior, Example University
+# Target journal: Journal of Workplace Psychology

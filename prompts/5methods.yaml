@@ -1,0 +1,15 @@
+# Purpose: Describe how the study was conducted in replicable detail.
+Study design: {design_description}  # e.g., "Cross-sectional survey combined with archival productivity data"
+Participants/sample: {sample_description}  # size, demographics, inclusion/exclusion
+Measures: {measures_list}  # e.g., "Remote work frequency (self-report), productivity score (company data), perceived isolation scale (validated 5-item scale)"
+Procedure: {procedure_summary}  # steps taken for data collection
+Analysis plan: {analysis_methods}  # e.g., "Multilevel regression with interaction terms; robustness checks include ..."
+
+# Instructions:
+# Write the Methods section. Include clear subsections:
+# - Participants (who, how recruited, sample characteristics)
+# - Measures/Instruments (operationalization, reliability if known)
+# - Procedure (data collection steps, ethics/consent)
+# - Data analysis (statistical models, software used, handling of missing data, thresholds for significance)
+# Ensure enough detail for replication. Use past tense. Include any pre-registration or ethical review statements if applicable.
+

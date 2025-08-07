@@ -1,0 +1,13 @@
+# Literatire Review - Purpose: Deep synthesis of prior work, organizing themes, theoretical grounding.
+
+Topic: {topic}
+Key papers: {list_of_papers_with_titles_and_short_abstracts}
+
+#Instructions:
+#Compose a Literature Review section structured around major themes relevant to the topic. For each theme:
+# - Define the theme/theoretical lens.
+# - Summarize and synthesize findings from at least 3–5 prior studies, noting agreements, contradictions, and methodological differences.
+# - Identify limitations in existing work that motivate the current study.
+# Include in-text citation placeholders (e.g., (Doe et al., 2021); (Smith & Lee, 2020)).
+# Organize with subheadings if appropriate. Provide a concluding paragraph that transitions into the current study’s research questions or hypotheses.
+# Length: ~1000–1500 words.

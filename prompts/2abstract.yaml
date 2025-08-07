@@ -1,0 +1,19 @@
+#Purpose: Summarize the article succinctly: background, objectives, methods, results, conclusion, keywords.
+
+Topic: {topic}
+Key findings summary: {bullet_summary}  # optional short bullet list e.g., ["Remote work leads to X", "Moderated by Y"]
+Word limit: {word_limit} #(typically 150-250 words)
+
+# Instructions:
+# Write an abstract in APA7 style for a journal article on the topic above. Include:
+# - One sentence of background/rationale
+# - Objective/research question
+# - Brief methods description (design/sample/data sources/analysis approach)
+# - Key results (quantitative if available; otherwise general trends)
+# - Main conclusion/implication
+# - Optional: one sentence about limitations if space allows
+# Then add a "Keywords:" line with 4–6 relevant keywords separated by commas.
+# Make it concise, clear, and standalone. Use in-text citation placeholders only if referencing foundational concepts (e.g., (Smith & Lee, 2023)).
+
+# Example abstract:
+#"Background: Digital communication has reshaped workplace dynamics. Objective: This study examines how remote work affects individual productivity. Methods: A mixed-methods survey and performance metrics from 500 employees were analyzed using multilevel regression. Results: Remote work positively correlates with productivity when autonomy is high, but the effect is moderated by perceived isolation. Conclusion: Organizations should balance flexibility with social support to maximize remote productivity. Keywords: remote work, productivity, autonomy, social isolation."

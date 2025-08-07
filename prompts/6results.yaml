@@ -1,0 +1,13 @@
+# Purpose: Present findings clearly, with appropriate statistics and without interpretation beyond what data show.
+
+Data summary/statistics: {key_results_summary}  # e.g., "Remote work positively associated with productivity (β=0.23, p<.01); interaction with isolation significant (β=-0.15, p=.02)"
+Tables/figures to mention: {list_of_tables_figures}  # e.g., "Table 1: Descriptive stats; Table 2: Regression results"
+
+# Instructions:
+# Write the Results section. Report:
+# - Descriptive statistics briefly
+# - Main model outcomes with effect sizes, confidence intervals, p-values
+# - Interaction/moderation or mediation results if applicable
+# - Any robustness/sensitivity analyses
+# 
+# Use appropriate statistical notation and include in-text references to tables and figures (e.g., "As shown in Table 2..."). Do not interpret results; stick to what was observed. Use past tense. Provide brief sentence summarizing key findings at end.

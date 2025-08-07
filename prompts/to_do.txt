@@ -1,0 +1,15 @@
+# To Do 
+Prompt Engineering Enhancements
+Chain-of-thought suppression: If the model tends to over-explain, you can append:
+"Do not include internal reasoning or extraneous commentary; only output the requested section content."
+
+Extraction vs generation: For rewrites, supply the original text plus instruction:
+"Rewrite the following paragraph to be more academic, concise, and in APA7 tone. Preserve meaning. Original: {text}"
+
+Citation insertion assistance: You can ask the LLM to suggest in-text citations given a small bibliography:
+
+bash
+Copy
+Edit
+Given these sources: {list}, insert appropriate in-text citation placeholders in this paragraph and suggest which source supports which claim.
+Temperature and length: For OpenAI Chat API: set temperature=0.2 for focused academic prose; use max_tokens sufficient to cover desired word count (e.g., ~800 words ≈ 1000–1200 tokens).

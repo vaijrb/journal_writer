@@ -1,0 +1,24 @@
+# Purpose: Set context, define problem, justify importance, state research questions/hypotheses.
+
+Topic: {topic}
+Background sources: {list_of_key_sources}  # titles/authors/short abstracts
+Research gap: {gap_description}  # e.g., "Existing studies focus on X but ignore Y"
+Objectives/hypotheses: {objectives_or_hypotheses}  # e.g., "To assess how remote work impacts productivity with moderation by isolation"
+
+#Instructions:
+# Write the Introduction section for a journal article. Include:
+# 1. Opening paragraph that introduces the broad area and importance.
+# 2. Summary of existing literature (2–3 main streams), citing key prior work with placeholders like (Author, Year).
+# 3. Identification of a clear research gap or unresolved issue.
+# 4. Articulation of the study’s purpose, research questions, and hypotheses.
+# 5. Significance/implication of filling the gap.
+# Length: Approximately {target_word_count} words (suggested 500–800).
+# Maintain logical flow from broad to specific. Use academic tone, avoid first-person unless the target journal permits (if not specified, use third-person neutral).
+
+# Example Input Values:
+
+# topic: "Effects of remote work on productivity"
+
+# research gap: "Most studies use cross-sectional surveys and don't account for perceived isolation as a moderator."
+
+# objectives: "Examine the association between remote work and productivity, and test if perceived isolation moderates this relationship."
